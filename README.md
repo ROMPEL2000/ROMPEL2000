@@ -1,16 +1,16 @@
-## Hi there 👋
+# Рамиль Рахимов
 
-<!--
-**ROMPEL2000/ROMPEL2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Создаю пет-проекты и веб-приложения. Здесь собираю работы, которые можно изучить по коду и запустить самостоятельно.
 
-Here are some ideas to get you started:
+### Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Predictive Maintenance](https://github.com/ROMPEL2000/predictive_maintenance_project)**  
+Прогноз отказа оборудования по рабочим параметрам. Загрузка данных, обучение Random Forest, оценка модели и ручной прогноз в Streamlit.
+
+Python · pandas · scikit-learn · Streamlit
+
+[Код и запуск](https://github.com/ROMPEL2000/predictive_maintenance_project#readme) · [Видеодемонстрация](https://github.com/ROMPEL2000/predictive_maintenance_project/blob/master/demo.mp4)
+
+### Другие работы
+
+Учебные проекты на C# и эксперименты — во вкладке [Repositories](https://github.com/ROMPEL2000?tab=repositories).
