@@ -7,7 +7,7 @@
 | Раздел | Что внутри |
 | --- | --- |
 | [Сайты](https://github.com/ROMPEL2000/ROMPEL2000/tree/main/sites) | Веб-проекты, исходный код и работающие демо |
-| [Информационная безопасность](https://github.com/ROMPEL2000/ROMPEL2000/tree/main/cybersecurity) | Раздел для будущих проектов по ИБ |
+| [Информационная безопасность](https://github.com/ROMPEL2000/ROMPEL2000/tree/main/cybersecurity) | Phishlab — практика распознавания фишинга |
 
 ### Другие проекты
 
