@@ -7,7 +7,7 @@
 | Раздел | Что внутри |
 | --- | --- |
 | [Сайты](https://github.com/ROMPEL2000/ROMPEL2000/tree/main/sites) | Веб-проекты, исходный код и работающие демо |
-| [Информационная безопасность](https://github.com/ROMPEL2000/ROMPEL2000/tree/main/cybersecurity) | Phishlab — практика распознавания фишинга · Kaspersky Security Lab — защита рабочих станций |
+| [Информационная безопасность](https://github.com/ROMPEL2000/ROMPEL2000/tree/main/cybersecurity) | [IncidentDesk](https://rompel2000.github.io/incidentdesk/) — разбор журналов · Phishlab — практика распознавания фишинга · Kaspersky Security Lab — защита рабочих станций |
 
 ### Другие проекты
 
