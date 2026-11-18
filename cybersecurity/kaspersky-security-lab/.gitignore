@@ -1,0 +1,27 @@
+# Установщики, образы, виртуальные диски и локальные материалы
+/downloads/
+/private/
+/evidence/raw/
+*.exe
+*.msi
+*.iso
+*.vdi
+*.vhd*
+*.vmdk
+*.ova
+*.ovf
+*.vbox*
+*.zip
+*.7z
+*.log
+*.dmp
+*.klp
+*.klt
+*.key
+*.pfx
+*.p12
+*.pem
+*.cer
+*.crt
+.env
+.env.*
